@@ -10,9 +10,6 @@ package example.bingbing.singleton;
 public enum SingletonEnum {
 
 
-
-
-
     //枚举元素，本身就是单例对象！
     INSTANTS;
 

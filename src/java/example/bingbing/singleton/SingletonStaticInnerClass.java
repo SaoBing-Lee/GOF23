@@ -9,7 +9,7 @@ package example.bingbing.singleton;
 public class SingletonStaticInnerClass {
 
     //静态内部类
-    private static class singletonClassInstance{
+    private static class SingletonClassInstance{
         private static  final SingletonStaticInnerClass innerClass = new SingletonStaticInnerClass();
     }
 
@@ -17,7 +17,7 @@ public class SingletonStaticInnerClass {
 
     //没有方法同步，调用效率高。
     public static  SingletonStaticInnerClass getInstance() {
-        return singletonClassInstance.innerClass;
+        return SingletonClassInstance.innerClass;
     }
 
 }
