@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f565f057-f2d1-4063-82d7-7a99536478ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/singleton/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/GOF23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/factory" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/bingbing/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/bingbing/singleton/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/bingbing/singleton/SingletonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/bingbing/singleton/SingletonHungryMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonHungryMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/bingbing/singleton/SingletonLazyLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonLazyLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/bingbing/singleton/SingletonStaticInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonStaticInnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/bingbing/singleton/singleton" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/singleton/singleton" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/example/bingbing/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +19,112 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonHungryMan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonStaticInnerClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/factory">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/singleton">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="UML Class" />
+        <option value="UML Object" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -35,6 +138,19 @@
         <option value="$PROJECT_DIR$/src/example/bingbing/singleton/singleton" />
         <option value="$PROJECT_DIR$/src/example/bingbing/singleton/Client.java" />
         <option value="$PROJECT_DIR$/src/example/bingbing/singleton/SingletonEnum.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/BenChi.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/Ferrari.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/Benz.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/factory" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/simpleFactory.puml" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/f.puml" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/o.puml" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java" />
       </list>
     </option>
   </component>
@@ -45,13 +161,19 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="2048" />
-    <option name="height" value="1057" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -59,35 +181,58 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="out" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="WEB-INF" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bingbing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bingbing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="simplefactory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bingbing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="singleton" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -96,6 +241,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Object" />
     <property name="Downloaded.Files.Path" value="$USER_HOME$/ideaProjects/big-data" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -103,14 +249,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560484019347" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561021739620" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -129,10 +275,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.bingbing.simplefactory.Client" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.bingbing.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.bingbing.singleton.Client" />
-      <module name="testGof23" />
+      <module name="GOF23" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="example.bingbing.singleton.*" />
@@ -143,6 +302,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -159,16 +323,29 @@
       <workItem from="1560484151855" duration="1633000" />
       <workItem from="1560503824016" duration="182000" />
       <workItem from="1560504214428" duration="62000" />
+      <workItem from="1560846202634" duration="630000" />
+      <workItem from="1560927191397" duration="7703000" />
+      <workItem from="1560938874722" duration="1689000" />
+      <workItem from="1560999425721" duration="6311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3701000" />
+    <option name="totallyTimeSpent" value="20034000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1061" extended-state="6" />
+    <frame x="0" y="23" width="2048" height="1058" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" x="850" y="323" width="348" height="529" id="Project" order="0" visible="true" weight="0.18544367" />
+      <window_info active="true" content_ui="combo" x="850" y="323" width="348" height="529" id="Project" order="0" visible="true" weight="0.19142573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -178,13 +355,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41082802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41082802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32401156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32769555" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32767764" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32767764" />
@@ -201,6 +378,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.32951146" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +399,99 @@
     <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/SingletonHungryMan.java" />
     <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/singleton" />
     <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/SingletonLazyLoad.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/t4/pkmn_f590rd6b2g1s3416d480000gp/T/modules.uml" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/SimpleFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/f.puml" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/o.puml" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/simpleFactory.puml" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonHungryMan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonStaticInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/factory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/singleton">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -235,9 +506,33 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (GOF23)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>big-data</last-edited>
+          <last-edited>java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -250,6 +545,18 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GOF23</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -273,7 +580,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>big-data</last-edited>
+          <last-edited>GOF23</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
