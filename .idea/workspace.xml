@@ -2,16 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f565f057-f2d1-4063-82d7-7a99536478ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/GOF23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/factory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/BridgePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/DrawAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/GreenCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/ChickenBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/ColdDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/MealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Pepsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/VegBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipDiector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipDiector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/BurgerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Diector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixBurgerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixDiector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/HexaObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/ObserverPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationSubstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/StrategyPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GOF23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GOF23.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/example/bingbing/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,95 +57,99 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonHungryMan.java">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Context.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonStaticInnerClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="150">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/io/bingbing/BufferdCopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/BinaryObserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+              <folding>
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/OctalObserver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/HexaObserver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/factory">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/ObserverPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/singleton">
+        <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixDiector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -122,9 +162,15 @@
         <option value="UML Sequence" />
         <option value="UML Class" />
         <option value="UML Object" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>out</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -135,29 +181,66 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/example/bingbing/singleton/singleton" />
-        <option value="$PROJECT_DIR$/src/example/bingbing/singleton/Client.java" />
-        <option value="$PROJECT_DIR$/src/example/bingbing/singleton/SingletonEnum.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/BenChi.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/Ferrari.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/Benz.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/factory/factory" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/simpleFactory.puml" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/f.puml" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/o.puml" />
-        <option value="$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Item.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Wrapper.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Packing.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Bottle.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Burger.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/ColdDrink.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/VegBurger.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/ChickenBurger.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Coke.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Pasi.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/MealBuilder.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/BuilderPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Meal.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPattern2/Meal.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/DrawAPI.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/RedCircle.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/GreenCircle.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/Shape.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/Circle.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/BridgePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/DrawAPI.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/Shape.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/Circle.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/GreenCircle.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/RedCircle.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/BridgePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipBuilder.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipDiector.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipBuilder.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShip.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipDiector.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/Client.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/BurgerBuilder.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixBurgerBuilder.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Diector.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Item.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixDiector.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Client.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationAdd.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationSubstract.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationMultiply.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/StrategyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Context.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Observer.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Subject.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/BinaryObserver.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/ObserverPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/HexaObserver.java" />
+        <option value="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/OctalObserver.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.3.9/conf" />
+        <option name="localRepository" value="D:\Maven\respository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.0.5\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -170,69 +253,45 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="2048" />
-    <option name="height" value="1058" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
+  <component name="ProjectId" id="1Te8LsjWKHQXqvIVFaB6onwFEzo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
           <expand>
             <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GOF23" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GOF23" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GOF23" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bingbing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="bingbing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="bingbing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="simplefactory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="GOF23" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="GOF23" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="bingbing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="singleton" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GOF23" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bingbing" type="462c0819:PsiDirectoryNode" />
+              <item name="observerpattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,16 +308,27 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561021739620" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574415041865" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebParsingServer/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example.bingbing.observerpattern" />
+      <recent name="example.bingbing.bridgepattern.test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/example" />
     </key>
@@ -275,13 +345,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.bingbing.simplefactory.Client" />
+  <component name="RunManager" selected="Application.ObserverPatternDemo">
+    <configuration name="BridgePatternDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.bingbing.bridgepattern.test.BridgePatternDemo" />
       <module name="GOF23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example.bingbing.simplefactory.*" />
+          <option name="PATTERN" value="example.bingbing.bridgepattern.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.bingbing.builderpattern.builder.Client" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.bingbing.builderpattern.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.bingbing.builderpattern.builder2.Client" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.bingbing.builderpattern.builder2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,9 +398,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.bingbing.observerpattern.ObserverPatternDemo" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.bingbing.observerpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.bingbing.strategypattem.StrategyPatternDemo" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.bingbing.strategypattem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverPatternDemo" />
+        <item itemvalue="Application.StrategyPatternDemo" />
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.BridgePatternDemo (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -327,11 +453,19 @@
       <workItem from="1560927191397" duration="7703000" />
       <workItem from="1560938874722" duration="1689000" />
       <workItem from="1560999425721" duration="6311000" />
+      <workItem from="1573809149701" duration="2353000" />
+      <workItem from="1574038614918" duration="11000" />
+      <workItem from="1574241294336" duration="1193000" />
+      <workItem from="1574296182513" duration="639000" />
+      <workItem from="1574300448655" duration="17693000" />
+      <workItem from="1574382492907" duration="11969000" />
+      <workItem from="1574410086904" duration="3823000" />
+      <workItem from="1574642089146" duration="81000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20034000" />
+    <option name="totallyTimeSpent" value="35398000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -343,9 +477,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1058" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="850" y="323" width="348" height="529" id="Project" order="0" visible="true" weight="0.19142573" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19638069" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -354,35 +489,65 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41082802" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32401156" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16997167" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32767764" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32767764" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3297975" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15722379" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32951146" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32935917" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="PlantUML" order="10" weight="0.32951146" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myShow1" value="true" />
@@ -391,121 +556,364 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/example/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/SingletonStaticInnerClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/SingletonEnum.java" />
-    <entry file="file://$PROJECT_DIR$/src/example/bingbing/factory/Factory.java" />
-    <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/SingletonHungryMan.java" />
-    <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/singleton" />
-    <entry file="file://$PROJECT_DIR$/src/example/bingbing/singleton/SingletonLazyLoad.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client3.java">
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/DrawAPI.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/RedCircle.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/bridgepattem/BridgePatternDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/BridgePatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///private/var/folders/t4/pkmn_f590rd6b2g1s3416d480000gp/T/modules.uml" />
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/SimpleFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client2.java">
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/DrawAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        <state relative-caret-position="300">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/f.puml" />
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/o.puml" />
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/simpleFactory.puml" />
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonHungryMan.java">
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/DrawAPI.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/GreenCircle.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/RedCircle.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/BridgePatternDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/test/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/SingletonStaticInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/factory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/singleton">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Ferrari.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="240">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Benz.java">
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/GreenCircle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="300">
+          <caret line="10" column="51" selection-start-line="9" selection-start-column="7" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/singleton/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="420">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/simplefactory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Meal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="420">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#203#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipDiector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Bottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Burger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/ColdDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/MealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Coke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/ChickenBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipDiector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Diector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/BurgerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixBurgerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationSubstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/strategypattem/StrategyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern.java" />
+    <entry file="jar://D:/jdk1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="308" column="26" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
+          <folding>
+            <element signature="e#9482#9483#0" expanded="true" />
+            <element signature="e#9528#9529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/io/bingbing/BufferdCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/BinaryObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/HexaObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/ObserverPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixDiector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/OctalObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -520,7 +928,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (GOF23)|Web</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -532,7 +940,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -566,32 +973,9 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>GOF23</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
