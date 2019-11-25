@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f565f057-f2d1-4063-82d7-7a99536478ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/BridgePatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/DrawAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/GreenCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/RedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/bridgepattern/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/BuiderPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/ChickenBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Coke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/ColdDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/MealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Packing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Pepsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/VegBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/AirShipDiector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder/SixAirShipDiector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/BurgerBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Diector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixBurgerBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/builderpattern/builder2/SixDiector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/BinaryObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/HexaObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/ObserverPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/OctalObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/observerpattern/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/OperationSubstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/example/bingbing/strategypattem/StrategyPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GOF23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GOF23.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f565f057-f2d1-4063-82d7-7a99536478ea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/OctalObserver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               <folding>
                 <element signature="e#236#237#0" expanded="true" />
                 <element signature="e#327#328#0" expanded="true" />
@@ -275,24 +229,6 @@
               <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
               <item name="GOF23" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GOF23" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GOF23" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bingbing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GOF23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GOF23" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bingbing" type="462c0819:PsiDirectoryNode" />
-              <item name="observerpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -322,7 +258,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -460,12 +396,12 @@
       <workItem from="1574300448655" duration="17693000" />
       <workItem from="1574382492907" duration="11969000" />
       <workItem from="1574410086904" duration="3823000" />
-      <workItem from="1574642089146" duration="81000" />
+      <workItem from="1574642089146" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35398000" />
+    <option name="totallyTimeSpent" value="35623000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -478,7 +414,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19638069" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -495,7 +430,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15722379" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.45892352" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -903,7 +838,7 @@
     <entry file="file://$PROJECT_DIR$/src/java/example/bingbing/observerpattern/OctalObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding>
             <element signature="e#236#237#0" expanded="true" />
             <element signature="e#327#328#0" expanded="true" />
